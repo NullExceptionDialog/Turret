@@ -1,0 +1,16 @@
+C:\Users\hcakm\source\repos\Turret\bin\Debug\Turret.exe.config
+C:\Users\hcakm\source\repos\Turret\bin\Debug\Turret.exe
+C:\Users\hcakm\source\repos\Turret\bin\Debug\Turret.pdb
+C:\Users\hcakm\source\repos\Turret\bin\Debug\SharpDX.dll
+C:\Users\hcakm\source\repos\Turret\bin\Debug\SharpDX.XInput.dll
+C:\Users\hcakm\source\repos\Turret\bin\Debug\SharpDX.pdb
+C:\Users\hcakm\source\repos\Turret\bin\Debug\SharpDX.XInput.pdb
+C:\Users\hcakm\source\repos\Turret\bin\Debug\SharpDX.XInput.xml
+C:\Users\hcakm\source\repos\Turret\obj\Debug\Turret.csproj.AssemblyReference.cache
+C:\Users\hcakm\source\repos\Turret\obj\Debug\Turret.Properties.Resources.resources
+C:\Users\hcakm\source\repos\Turret\obj\Debug\Turret.csproj.GenerateResource.cache
+C:\Users\hcakm\source\repos\Turret\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+C:\Users\hcakm\source\repos\Turret\obj\Debug\Turret.csproj.CopyComplete
+C:\Users\hcakm\source\repos\Turret\obj\Debug\Turret.exe
+C:\Users\hcakm\source\repos\Turret\obj\Debug\Turret.pdb
+C:\Users\hcakm\source\repos\Turret\obj\Debug\Turret.Form1.resources
