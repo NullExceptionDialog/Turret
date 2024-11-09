@@ -319,4 +319,4 @@ namespace Turret
 
 // CREATED BY AHMET E. C. AKA NULL.EXCEPTIONDIALOG [NULLABLETURKISH(X/TW)],
 // MADE WITH LOVE FROM TÜRKIYE, 20242207 2024-22-07
-//                                  https://www.GitHub.com/
+//                                  https://www.GitHub.com/NullExceptionDialog
